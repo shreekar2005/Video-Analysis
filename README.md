@@ -34,7 +34,9 @@ To train/ run on GPU Download and Install following dependencies :
 
 2.CudaLibrary (https://pytorch.org/get-started/locally/)
 
-Run crack detection on video
+follow this video for better understanding : https://youtu.be/cL05xtTocmY?feature=shared
+
+Run crack detection on video:
 ```bash
   cd V2
   python test_on_vid.py
