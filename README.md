@@ -45,3 +45,22 @@ Run crack detection on video:
 
 ## video
 ![](https://github.com/shreekar2005/Video-Analysis/blob/main/dc_vid.gif)
+
+
+## About data and model
+Data split
+train : 3222
+val : 281
+test : 522 (using for validate model after training)
+
+...trained for 75 epochs (using train and val data)
+
+mAP50-95 : 0.5608 (after validating on test data)
+
+## More about dataset and YoloV11
+Dataset link : https://universe.roboflow.com/iitj-gxmjr/crack-detection-qlrkm
+
+YoloV11 : https://docs.ultralytics.com/models/yolo11/#usage-examples
+
+how to use YoloV11 locally : https://docs.ultralytics.com/modes/train/
+
