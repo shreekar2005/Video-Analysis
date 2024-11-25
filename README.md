@@ -1,7 +1,7 @@
 
 # video Analysis
 
-This project uses a machine learning model to detect cracks in images and videos, with scripts for training and testing to ensure accurate and efficient detection.
+This project uses a machine learning model to detect cracks in images and videos, with scripts for training and testing to ensure accurate and efficient detection. There are two folders, V1 and V2, which have the same functionality, but in V2, the model is trained on a dataset with a different split. You can use either, though V2 is recommended.
 
 
 
