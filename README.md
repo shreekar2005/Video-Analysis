@@ -43,4 +43,5 @@ Run crack detection on video:
 ```
 + I dont have any specific video to thats why I am using small part of screen as Input for our model (we can decide what to display on that part of screen our that part of screen to varify working of model)
 
-
+## video
+![](https://github.com/shreekar2005/Video-Analysis/blob/main/dc_vid.gif)
