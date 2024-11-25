@@ -1,0 +1,13 @@
+train: C:\Users\svmka\Desktop\DCproj\V1\DATASET\train\images
+val: C:\Users\svmka\Desktop\DCproj\V1\DATASET\valid\images
+test: C:\Users\svmka\Desktop\DCproj\V1\DATASET\test\images
+
+nc: 1
+names: ['crack']
+
+roboflow:
+  workspace: defect-detection-edbnh
+  project: crack-bphdr-97bgf
+  version: 5
+  license: Public Domain
+  url: https://universe.roboflow.com/defect-detection-edbnh/crack-bphdr-97bgf/dataset/5

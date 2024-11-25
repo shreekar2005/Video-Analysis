@@ -1,0 +1,13 @@
+train: C:\Users\svmka\Desktop\DCproj\V2\DATASET_V2\train\images
+val: C:\Users\svmka\Desktop\DCproj\V2\DATASET_V2\valid\images
+test: C:\Users\svmka\Desktop\DCproj\V2\DATASET_V2\test\images
+
+nc: 1
+names: ['0']
+
+roboflow:
+  workspace: iitj-gxmjr
+  project: crack-detection-qlrkm
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/iitj-gxmjr/crack-detection-qlrkm/dataset/1
