@@ -1,4 +1,10 @@
 
+# video Analysis
+
+This project uses a machine learning model to detect cracks in images and videos, with scripts for training and testing to ensure accurate and efficient detection.
+
+
+
 ## Run Locally
 
 Clone the project
